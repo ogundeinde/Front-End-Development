@@ -1,0 +1,42 @@
+.header {
+    grid-area: hd;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+#one {
+    grid-area: main1;
+}
+
+#two {
+    grid-area: main2;
+}
+
+#three {
+    grid-area: main3;
+}
+
+#four {
+    grid-area: main4;
+}
+
+#five {
+    grid-area: main5;
+}
+
+#six {
+    grid-area: main6;
+}
+
+.footer {
+    grid-area: ft;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    background-color: #C8CDD2;
+}

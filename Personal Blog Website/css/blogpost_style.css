@@ -1,0 +1,14 @@
+#about {
+    background-color: #c8cdd2;
+    padding: 5px;
+}
+
+#about, #calendar, #external {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
