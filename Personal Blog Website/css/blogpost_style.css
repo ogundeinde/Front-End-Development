@@ -12,3 +12,13 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+.avatar {
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+}
+
+.author {
+    text-decoration: underline;
+}
